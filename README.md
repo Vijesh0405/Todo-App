@@ -15,7 +15,7 @@ You can try the app live on Netlify: [Todo App Demo](https://better-todos-app.ne
 
 ## Screenshots
 
-![App Screenshot](![Alt text](image.png))
+![App Screenshot](image.png)
 
 ## How to Use
 
@@ -36,7 +36,7 @@ You can try the app live on Netlify: [Todo App Demo](https://better-todos-app.ne
 1. Clone the repository to your local machine:
 
     ```paste this command 
-    git clone https://github.com/exampleuser/todo-app.git
+    git clone https://github.com/Vijesh0405/Todo-App.git
     ```
 
 2. Open the `index.html` file in your web browser.
